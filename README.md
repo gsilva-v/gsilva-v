@@ -14,4 +14,4 @@
 
 <p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsilva-v&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="gsilva-v" />
 
-&nbsp;<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=gsilva-v&show_icons=true&locale=en" alt="gsilva-v" /></p>
+&nbsp;<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=gsilva-v&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="gsilva-v" /></p>
