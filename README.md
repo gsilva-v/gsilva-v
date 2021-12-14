@@ -7,8 +7,6 @@
 
 - 🤝 I can help you with [So_long](https://github.com/gsilva-v/So_long)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gsilva-v](https://github.com/gsilva-v)
-
 - 📫 How to reach me **gaa.silva53@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
