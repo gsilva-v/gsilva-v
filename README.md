@@ -14,6 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsilva-v&show_icons=true&locale=en&layout=compact" alt="gsilva-v" />
+<p><img width="200px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsilva-v&show_icons=true&locale=en&layout=compact" alt="gsilva-v" />
 
 &nbsp;<img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=gsilva-v&show_icons=true&locale=en" alt="gsilva-v" /></p>
