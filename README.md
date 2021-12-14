@@ -5,7 +5,7 @@
 
 - <span>&#9997;&#127997;</span> I’m currently learning **C**
 
-- 🤝 I’m looking for help with [So_long](https://github.com/gsilva-v/So_long)
+- 🤝 I can help you with [So_long](https://github.com/gsilva-v/So_long)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsilva-v](https://github.com/gsilva-v)
 
