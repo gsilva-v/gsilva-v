@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Silva Vieira</h1>
-<h3 align="center">Cadet at 42sp</h3>
+<h3 align="center">Cadet at 42sp <span style='font-size:15px;'>&#129302;</span><span style='font-size:15px;'>&#128640;</span></h3>
 
-- 🔭 I’m currently working on **Minishell**
+- <span style='font-size:15px;'>&#129506;</span> I’m currently working on **Minishell**
 
-- 🌱 I’m currently learning **C**
+- <span>&#9997;&#127997;</span> I’m currently learning **C**
 
 - 🤝 I’m looking for help with [So_long](https://github.com/gsilva-v/So_long)
 
