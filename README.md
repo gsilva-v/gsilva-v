@@ -11,6 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/> </a></p>
 
 <p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsilva-v&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="gsilva-v" />
 
