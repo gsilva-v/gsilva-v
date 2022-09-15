@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **gaa.silva53@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-[![alt text](cppe.png)](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-[![alt text](cppe.png)](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
-
-
 
 [![gsilva-v's 42 stats](https://badge42.vercel.app/api/v2/cl80e4ja400060gjkd0w52iq6/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
